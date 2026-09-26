@@ -1,11 +1,11 @@
-# Vayu Tools & Utilities
+# Vayu Utils
 
 <div align="center">
 
-![Vayu Tools Banner](https://img.shields.io/badge/Device-Poco%20X3%20Pro-FF6900?style=for-the-badge&logo=xiaomi)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+![Device](https://img.shields.io/badge/Device-Poco%20X3%20Pro-FF6900?style=for-the-badge&logo=xiaomi)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Android-blue?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/itachi-re/vayu_tools?style=flat-square&color=orange)
+![Repo Size](https://img.shields.io/github/repo-size/itachi-re/vayu-utils?style=for-the-badge&color=orange)
 
 **A comprehensive, cross-platform toolkit for Xiaomi Poco X3 Pro (vayu)**
 
@@ -19,9 +19,9 @@
 
 ## 📖 About
 
-Vayu Tools is a curated collection of utilities, scripts, and firmware resources designed specifically for the **Xiaomi Poco X3 Pro (codename: vayu)**. This project aims to be a one-stop solution for device maintenance, recovery, customization, and optimization across multiple platforms.
+Vayu Utils is a curated collection of utilities, scripts, and firmware resources designed specifically for the **Xiaomi Poco X3 Pro (codename: vayu)**. This project aims to be a one-stop solution for device maintenance, recovery, customization, and optimization across multiple platforms.
 
-### Why Vayu Tools?
+### Why Vayu Utils?
 
 - 🎯 **Device-Specific**: Tailored exclusively for Poco X3 Pro
 - 🔄 **Cross-Platform**: Native support for Linux, Windows, and Android
@@ -91,7 +91,7 @@ Vayu Tools is a curated collection of utilities, scripts, and firmware resources
 ## 📂 Repository Structure
 
 ```
-vayu_tools/
+vayu-utils/
 ├── 📁 stock_partitions/          # Stock firmware & flashing tools
 │   └── V14.0.3.0_Global/
 │       ├── images/               # Partition images (boot, system, etc.)
@@ -128,8 +128,8 @@ Before using any tools, ensure you have:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/itachi-re/vayu_tools.git
-cd vayu_tools
+git clone https://github.com/itachi-re/vayu-utils.git
+cd vayu-utils
 ```
 
 ---
@@ -389,14 +389,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/itachi-re/vayu_tools/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/itachi-re/vayu_tools/discussions)
+- **Issues**: [GitHub Issues](https://github.com/itachi-re/vayu-utils/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/itachi-re/vayu-utils/discussions)
 - **Maintainer**: [@itachi-re](https://github.com/itachi-re)
 
 ### Before Asking for Help
 
 1. ✅ Check [Troubleshooting](#-troubleshooting) section
-2. ✅ Search existing [Issues](https://github.com/itachi-re/vayu_tools/issues)
+2. ✅ Search existing [Issues](https://github.com/itachi-re/vayu-utils/issues)
 3. ✅ Verify you're using correct device (Poco X3 Pro - vayu)
 4. ✅ Include error logs when reporting issues
 
@@ -426,7 +426,7 @@ This project is provided "as is" without warranty of any kind. The maintainers a
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=itachi-re/vayu_tools&type=Date)](https://star-history.com/#itachi-re/vayu_tools&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=itachi-re/vayu-utils&type=Date)](https://star-history.com/#itachi-re/vayu-utils&Date)
 
 ---
 
