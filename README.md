@@ -5,7 +5,7 @@
 ![Vayu Tools Banner](https://img.shields.io/badge/Device-Poco%20X3%20Pro-FF6900?style=for-the-badge&logo=xiaomi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Android-blue?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/itachi-re/vayu-tools?style=flat-square&color=orange)
+![Repo Size](https://img.shields.io/github/repo-size/itachi-re/vayu_tools?style=flat-square&color=orange)
 
 **A comprehensive, cross-platform toolkit for Xiaomi Poco X3 Pro (vayu)**
 
