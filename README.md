@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Android-blue?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/itachi-re/vayu-utils?style=for-the-badge&color=orange)
+![Repo Size](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itachi-re/vayu-utils/main/.github/badges/lfs-size.json&style=for-the-badge)
 
 **A comprehensive, cross-platform toolkit for Xiaomi Poco X3 Pro (vayu)**
 
